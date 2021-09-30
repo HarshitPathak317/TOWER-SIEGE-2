@@ -23,7 +23,7 @@ function setup() {
 
   //polygonObj=createSprite(width/2, 80, 10,10);
 	//polygonObj.addImage(polygonimg);
-  //polygonObj.scale=0.1
+  //polygonObj.scale=0.1;
   //Hello, World!
   
   //createSprite(400, 200, 50, 50);
